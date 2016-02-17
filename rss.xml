@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[the life of pablo]]></title>
         <description><![CDATA[the life of pablo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-life-of-pablo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 22:02:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 23:56:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-life-of-pablo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[tracklist]]></title>
+            <description><![CDATA[<h1>tracklist</h1>]]></description>
+            <link>https://thegrid.ai/the-life-of-pablo/tracklist/index.html</link>
+            <guid isPermaLink="false">d9f10b2e-44ea-4129-ad3f-7cfba2eff405</guid>
+            <pubDate>Wed, 17 Feb 2016 23:56:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/63c848bf-433d-4c6a-b64f-342a8b788ff5.jpg">]]></description>
-            <link>undefined887fdb65-c51a-4514-877f-fe3abac60e18/index.html</link>
+            <link>https://thegrid.ai/the-life-of-pablo/887fdb65-c51a-4514-877f-fe3abac60e18/index.html</link>
             <guid isPermaLink="false">887fdb65-c51a-4514-877f-fe3abac60e18</guid>
             <pubDate>Wed, 17 Feb 2016 22:01:31 GMT</pubDate>
         </item>
